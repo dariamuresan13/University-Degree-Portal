@@ -5,6 +5,13 @@ The application implements authentication, protected navigation, and dynamic dat
 
 ---
 
+## Purpose
+
+This project demonstrates how a client-side web application can interact with a REST API to authenticate users, retrieve structured data, and dynamically render it in a modern web interface.  
+It highlights practical use of JavaScript for asynchronous API communication, state management, and responsive UI development.
+
+---
+
 ## Features
 
 - Token-based authentication with JWT stored in `sessionStorage`
@@ -39,9 +46,3 @@ The application implements authentication, protected navigation, and dynamic dat
 - HTML5 Canvas animations
 
 
----
-
-## Purpose
-
-This project demonstrates how a client-side web application can interact with a REST API to authenticate users, retrieve structured data, and dynamically render it in a modern web interface.  
-It highlights practical use of JavaScript for asynchronous API communication, state management, and responsive UI development.
